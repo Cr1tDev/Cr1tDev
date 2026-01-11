@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ivan!
 
 👩🏻‍💻 Web Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Computer Science<br/>
+👩🏻‍🎓 Studied Information Technology<br/>
 🌱 Learning in public and continuously improving my frontend & full-stack skills<br/>
 💭 Currently focused on modern JavaScript frameworks and scalable web applications<br/>
 
